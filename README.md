@@ -3,7 +3,7 @@ IoT-based Smart Vehicle Indicator Automation System powered by ESP32 &amp; Bluet
  
 ### *An IoT-based Smart Vehicle Indicator Automation System*
 
-[🔗 View Android App Repository → GeoBlaze-Android](https://github.com/<your-username>/GeoBlaze-Android)
+[🔗 View Android App Repository → GeoBlaze-Android](https://github.com/Zia-Mahmood/GeoBlaze-Android)
 
 ---
 
@@ -120,8 +120,8 @@ GeoBlaze-ESP32/
 ├── src/
 │   └── main.ino
 ├── media/
-│   ├── app-demo.mp4
-│   ├── bike-demo.mp4
+│   ├── app-demo.gif
+│   ├── bike-demo.gif
 │   ├── Circuit.png
 │   └── PinLayout.png
 ├── LICENSE
