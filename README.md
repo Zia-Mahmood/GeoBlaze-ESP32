@@ -81,15 +81,24 @@ This project demonstrates seamless **vehicle-electronics integration** using Blu
 ---
 
 ## 🧪 Demo
+| Type                         | Link                                                                                       |
+| ---------------------------- | ------------------------------------------------------------------------------------------ |
+| 📱 App Interaction Video     | [Google Drive Link](https://drive.google.com/file/d/REPLACE_APP_DEMO_ID/view?usp=sharing)  |
+| 🏍️ Real Bike Implementation | [Google Drive Link](https://drive.google.com/file/d/REPLACE_BIKE_DEMO_ID/view?usp=sharing) |
+| ⚡ Circuit Diagram            | `media/GeoBlaze_Circuit.png` *(local image placeholder)*                                   |
+| 🧭 Pin Layout Diagram        | `media/GeoBlaze_PinLayout.png` *(local image placeholder)*                                 |
+
 
 ### 📱 App Interaction
-`media/app-demo.mp4`  
+[Google Drive Link](https://drive.google.com/file/d/1WtmUDDjg7xVTShBiGUPVRhIEMigdYvJX/view?usp=sharing)
+
 ![App Demo Animation](./media/app-demo.gif)
 
 ---
 
-### 🏍️ Real Bike Implementation
-`media/bike-demo.mp4`  
+### 🏍️ Real Bike Implementation 
+[Google Drive Link](https://drive.google.com/file/d/1k_8Ny_jzUUArPhIODR5X-xLXiLAKU4JY/view?usp=sharing)
+
 ![Bike Demo Animation](./media/bike-demo.gif)
 
 ---
