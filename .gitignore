@@ -1,0 +1,32 @@
+# ==========================================================
+# GeoBlaze-ESP32 .gitignore
+# Ignore all build, cache, and user-specific files
+# ==========================================================
+
+# === Arduino Build Files ===
+*.bak
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
+*.d
+*.o
+*.a
+*.pyc
+*.swp
+
+# Arduino Sketch Build Folder
+build/
+.arduino-build/
+.arduino-output/
+.cache/
+.tmp/
+
+# === IDE Metadata ===
+# VS Code
+.vscode/
+
+# ==========================================================
+# End of file
+# ==========================================================
